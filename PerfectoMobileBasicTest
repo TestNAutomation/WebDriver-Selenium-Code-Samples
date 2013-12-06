@@ -12,8 +12,8 @@ import com.perfectomobile.selenium.api.IMobileDriver;
 *	Date        : Dec 6th 2013  
 *	
 *	Description :
-*	Basic abstract perfecto mobile test - Each test need to extends this calss and implimnte the acual test in the PerfectoMobileBasicTest
-*	This basic test handle the driver and the device
+Basic abstract perfecto mobile test - Each test need to extend this class and implement the actual test in the PerfectoMobileBasicTest
+*	This basic test handles the driver and the device
 */
 
 public abstract class PerfectoMobileBasicTest implements Runnable{
