@@ -1,5 +1,4 @@
 
-
 import java.lang.reflect.Constructor;
 import com.perfectomobile.selenium.*;
 import com.perfectomobile.selenium.api.*;
@@ -14,7 +13,7 @@ public class MobileTest {
 	*	Date        : Dec 6th 2013  
 	*	
 	*	Description :
-	*	Mobile Executer gets list of test ands devices and execute it on the avilable devices 
+	*	Mobile Executer gets list of test and devices and execute it on the available devices 
 	*	in this example the list arrive form array [] [] 
 	*	The tests run on real devices in Perfecto Mobile cloud 
 		*/
